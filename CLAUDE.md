@@ -1,0 +1,1 @@
+Debes hacer las correcciones teniendo en cuenta que estas reescribiendo partes de un TFG de ingenieria quimica que tengo 22 años y que estoy acabando la carrera

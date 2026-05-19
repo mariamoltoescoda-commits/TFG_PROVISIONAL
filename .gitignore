@@ -1,0 +1,6 @@
+# Instaladores
+*.exe
+*.msi
+
+# Configuración local de Claude Code
+.claude/settings.local.json
