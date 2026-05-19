@@ -1,10 +1,10 @@
-# TFG — Simulación de un Reactor de Policondensación de PET
+# TFG — Glicólisis del PET: Modelado Cinético y Simulación del Reactor
 
 Trabajo de Fin de Grado de Ingeniería Química.
 
 ## Descripción
 
-Este repositorio contiene el código y la documentación del TFG, centrado en la modelización y simulación de un reactor de policondensación para la producción de PET (tereftalato de polietileno).
+Este trabajo aborda el reciclaje químico del PET (tereftalato de polietileno) mediante glicólisis. Se desarrolla un modelo cinético de la reacción y se simula el reactor para estudiar las condiciones óptimas de operación.
 
 ## Contenido
 
@@ -16,7 +16,8 @@ Este repositorio contiene el código y la documentación del TFG, centrado en la
 
 ## Herramientas
 
-- MATLAB (Live Scripts)
+- **MATLAB** — modelado cinético y simulación del reactor
+- **ProMax** — simulación de procesos químicos
 
 ## Autora
 
